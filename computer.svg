@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="350" height="263">
+
+<g transform="matrix(0.875 0 0 0.8766667 0 0)">
+	<g transform="matrix(1 0 0 1 0 0)">
+		<g transform="matrix(1 0 0 1 0 0)">
+			<g transform="matrix(0.5859375 0 0 0.5859375 50.00001 -0)">
+                <path d="M0 357.336L0 26C 0 20.496 4.704 16 10.448 16L10.448 16L501.552 16C 507.296 16 512 20.496 512 26L512 26L512 357.336L0 357.336z" stroke="none" fill="#000000" fill-rule="nonzero" />
+                <path d="M512 357.336L512 400C 512 405.864 507.296 410.664 501.552 410.664L501.552 410.664L10.448 410.664C 4.704 410.664 0 405.864 0 400L0 400L0 357.336L512 357.336z" stroke="none" fill="#E2E2E2" fill-rule="nonzero" />
+                <path d="M181.336 485.336L330.664 485.336L320 410.664L192 410.664L181.336 485.336" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                <path d="M320 410.664L192 410.664L185.352 457.2L322.488 428.064L320 410.664" stroke="none" fill="#AAAAAA" fill-rule="nonzero" />
+                <path d="M144 485.336L368 485.336L368 496L144 496L144 485.336z" stroke="none" fill="#E2E2E2" fill-rule="nonzero" />
+                <path d="M192 410.664L320 410.664L320.72 415.704L188.68 433.936L192 410.664" stroke="none" fill="#939393" fill-rule="nonzero" />
+                <path d="M17.864 33.864L494.104 33.864L494.104 339.464L17.864 339.464L17.864 33.864z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+				<g>
+                    <path d="M96 229.336L245.336 229.336L245.336 240L96 240L96 229.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 293.336L416 293.336L416 304L277.336 304L277.336 293.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 261.336L416 261.336L416 272L277.336 272L277.336 261.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 229.336L416 229.336L416 240L277.336 240L277.336 229.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 197.336L416 197.336L416 208L277.336 208L277.336 197.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 165.336L416 165.336L416 176L277.336 176L277.336 165.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 133.336L416 133.336L416 144L277.336 144L277.336 133.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 101.336L416 101.336L416 112L277.336 112L277.336 101.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M277.336 69.336L416 69.336L416 80L277.336 80L277.336 69.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M96 261.336L245.336 261.336L245.336 272L96 272L96 261.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+                    <path d="M96 293.336L245.336 293.336L245.336 304L96 304L96 293.336z" stroke="none" fill="#C9C9C9" fill-rule="nonzero" />
+				</g>
+                <path d="M234.672 197.336L106.672 197.336C 100.808 197.336 96.007996 192.536 96.007996 186.672L96.007996 186.672L96.007996 80C 96.007996 74.136 100.808 69.336 106.672 69.336L106.672 69.336L234.672 69.336C 240.536 69.336 245.336 74.136 245.336 80L245.336 80L245.336 186.664C 245.336 192.536 240.536 197.336 234.672 197.336z" stroke="none" fill="#F2B851" fill-rule="nonzero" />
+                <path d="M153.288 104.168L199.368 133.336L153.288 162.496L153.288 104.168" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
