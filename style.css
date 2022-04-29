@@ -254,3 +254,30 @@ body {
     opacity: 1;
     visibility: visible;
 }
+
+@media only screen and (max-width: 768px) {
+    [class*="conteudo-principal-imagem"] {
+      width: 40%;
+    }
+    [class*="conteudo-principal-escrito"] {
+        width: 50%;
+      }
+      [class*="projetos"] {
+        display: block;
+      }
+      [class*="card"] {
+        margin-bottom: 24px;
+      }
+      [class*="conteudo-principal"] {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      [class*="conteudo-secundario"] {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      [class*="cabecalho"] {
+        visibility: hidden;
+        height: 0;
+      }
+}
