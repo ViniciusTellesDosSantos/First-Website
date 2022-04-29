@@ -280,4 +280,7 @@ body {
         visibility: hidden;
         height: 0;
       }
+      [class*="conteudo-principal-escrito-botao"] {
+        width: 200px;
+      }
 }
